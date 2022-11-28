@@ -1,0 +1,81 @@
+table, th, td {
+    border: 0px solid white;
+    border-collapse: collapse;
+  }
+  th {
+      background-color: #259ed9;
+      padding: 1rem;
+      color: #191458;
+      font-size: 25px;
+  }
+  td{
+      text-align: center;
+  }
+  .valed{
+    background-color: #d3d3d3;
+    padding: 1rem;
+    color: #000000;
+    font-size: 25px;
+  }
+  .invalid{
+    background-color: #838383;
+    padding: 1rem;
+    color: #000000;
+    font-size: 25px; 
+  }
+  table{
+      margin: auto;
+      margin: 2rem;
+  
+  }
+  header{
+
+      background-repeat: no-repeat;
+     background-size: cover;
+     width: 100%;
+  }
+  .child{
+      /* padding: 1rem 2rem; */
+      margin: 2rem ;
+      width: 20%;
+      border-radius: 1rem;
+      color: #add1e3;
+
+      background-color: #191458;
+      display: flex;
+  }
+  .dash{
+    font-size: 25px;
+   
+    color: #add1e3;
+    padding: .5rem;
+  }
+  .styles{
+      width: 50px;
+      height: 50px;
+      border-radius: 32%;
+      background-color: #259ed9;
+  }
+  .account{
+    border-style: dotted ; border-color: #259ed9; background-color: #f8f8f8; width: 40%; margin: auto;
+  }
+  button{
+    padding: 1rem 2rem;
+  
+    border-radius: 1rem ;
+    border: none;
+    color: #ffffff;
+    font-size: 25px;
+    background-color: #259ed9;
+  }
+  .input{
+      font-size: 30px;
+      color: #282463;
+      padding-right: 1rem;
+  }
+  .class{
+      padding-right: 25em;
+padding-top: 2rem;
+padding-bottom: 4rem;
+display: flex;
+  }

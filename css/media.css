@@ -1,0 +1,10 @@
+@media(max-width:600px){
+    .class{
+        padding-right: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+    }
+    .account{
+        border-style: dotted ; border-color: #259ed9; background-color: #f8f8f8; width: 70%; margin: auto;
+      }
+}
